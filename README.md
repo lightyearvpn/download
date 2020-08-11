@@ -4,7 +4,15 @@
 
 > 实时更新最新免翻墙地址!
 
-## 应用下载
+## PC客户端下载
+
+[下载地址](https://github.com/lightyearvpn/LightyearVPN/releases)
+
+> MacOS请下载 .dmg 文件
+
+> Windows请下载 .exe 文件
+
+## 移动应用下载
 
 <a target="_blank" href='https://apps.apple.com/us/app/lightyearvpn-fast-trusted/id1495258888'><img width="300" alt='Get it on Google Play' src='https://applelaneanimalhospital.com/wp-content/uploads/2019/04/apple.png'/></a>
 
