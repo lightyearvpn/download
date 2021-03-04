@@ -1,5 +1,5 @@
 ## 官网链接
-- [最新免翻墙地址(2020/08/07更新)](https://lightyearapp.me)
+- [最新免翻墙地址(2020/08/07更新)](https://lightyearapp.life)
 - [官方永久地址](https://lightyearvpn.com)
 
 > 实时更新最新免翻墙地址!
